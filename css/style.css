@@ -55,3 +55,26 @@
     text-decoration: none;
  }
 
+
+.color-other {
+     background-color: #6858f6ce !important;
+ }
+
+
+ .card-container {
+     margin: 40px 10px;
+ }
+
+ .card-center { 
+    align-items: center;
+    margin-top: 20px;
+ }
+
+ .form-margin {
+     margin: 30px;
+ }
+
+ .container-produtos
+ {
+     /*  */
+ }
